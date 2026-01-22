@@ -23,7 +23,8 @@ The patcher uses a multi-layer bypass strategy:
 - [ADB Drivers](https://developer.android.com/tools/adb) installed on your PC.
 
 ### Installation
-1. Download the latest `GalaxyPatcher.exe` from the [Releases](#) page.
+1. Download the latest `GalaxyThemePatcher-Release.zip` from the [**Releases Page**](https://github.com/Varun7009/Galaxy-Theme-Patcher/releases).
+   > **Note:** Do NOT download the "Source Code" zip. Use the file under "Assets" in the Release section.
 2. Connect your phone to your PC via USB.
 
 ### Usage
