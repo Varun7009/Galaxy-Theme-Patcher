@@ -1,2 +1,7 @@
-*.zip
-.git
+# Ignore everything by default
+*
+
+# Allow specific documentation files
+!README.md
+!LICENSE
+!.gitignore
